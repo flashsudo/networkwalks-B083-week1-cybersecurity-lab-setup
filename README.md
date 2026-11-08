@@ -194,7 +194,7 @@ Clean Kali - Network Baseline
 ```
 <div align="center">
 
-<img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20070452.png">
+<img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20072222.png">
 
 <p><b>Figure 4:</b> Cybersecurity Virtual Lab - Taking SnapShot</p>
 
