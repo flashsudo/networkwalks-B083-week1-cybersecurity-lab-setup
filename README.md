@@ -112,9 +112,7 @@ In VirtualBox, open **Tools → Network → NAT Networks** (the exact menu locat
 
 <div align="center">
 
-<img src="screenshots/lab-architecture.png"
-     alt="Cybersecurity Lab Architecture"
-     width="800">
+<img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20063121.png">
 
 <p><b>Figure 1:</b> Cybersecurity Virtual Lab - Nat configurations</p>
 
