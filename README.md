@@ -3,7 +3,7 @@
 # Cybersecurity Virtual Lab
 
 ### A documented, isolated environment for ethical hacking and network-security practice
-## Orgernized  and Sponsered by NetWorkwalks
+## Orgernized  and Sponsered by NetWorkwalks - B084
 
 [![Platform](https://img.shields.io/badge/Platform-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![OS](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
