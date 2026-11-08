@@ -131,6 +131,15 @@ Example VM settings:
 - **Network name:** `NatNetwork`.
 - **Adapter type:** Intel PRO/1000 MT Desktop, if compatible with the imported VM.
 
+<div align="center">
+
+<img src="">
+
+<p><b>Figure 2:</b> Cybersecurity Virtual Lab - Installed Kali Linux</p>
+
+</div>
+
+
 A shared folder may optionally be configured for controlled file transfer between the host and guest. Install VirtualBox Guest Additions if required by the shared-folder setup.
 
 ### 5. Configure Kali networking
