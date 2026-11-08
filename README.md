@@ -154,7 +154,7 @@ nmcli connection show
 
 <div align="center">
 
-<img src="">
+<img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20070452.png">
 
 <p><b>Figure 1:</b> Cybersecurity Virtual Lab - IPv4 Configurations</p>
 
