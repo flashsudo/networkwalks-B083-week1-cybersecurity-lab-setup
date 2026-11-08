@@ -152,6 +152,14 @@ ip route
 nmcli connection show
 ```
 
+<div align="center">
+
+<img src="">
+
+<p><b>Figure 1:</b> Cybersecurity Virtual Lab - IPv4 Configurations</p>
+
+</div>
+
 For a simple lab, DHCP is suitable for initial connectivity testing. If a stable address is required, configure a static address using NetworkManager and the actual connection profile name.
 
 Example only — verify the gateway and ensure `10.0.0.2` is not inside the DHCP allocation pool before applying:
