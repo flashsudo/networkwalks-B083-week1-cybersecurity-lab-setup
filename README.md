@@ -156,7 +156,7 @@ nmcli connection show
 
 <img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20070452.png">
 
-<p><b>Figure 1:</b> Cybersecurity Virtual Lab - IPv4 Configurations</p>
+<p><b>Figure 3:</b> Cybersecurity Virtual Lab - IPv4 Configurations</p>
 
 </div>
 
@@ -192,6 +192,14 @@ Suggested name:
 ```text
 Clean Kali - Network Baseline
 ```
+<div align="center">
+
+<img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20070452.png">
+
+<p><b>Figure 4:</b> Cybersecurity Virtual Lab - Taking SnapShot</p>
+
+</div>
+
 
 Create additional snapshots before major configuration changes or risky experiments. A snapshot is a recovery point, not a substitute for backing up important files.
 
