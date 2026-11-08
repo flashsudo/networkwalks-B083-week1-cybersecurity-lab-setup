@@ -133,7 +133,7 @@ Example VM settings:
 
 <div align="center">
 
-<img src="">
+<img src="https://github.com/flashsudo/networkwalks-B083-week1-cybersecurity-lab-setup/blob/main/Screenshot%202026-11-08%20065637.png">
 
 <p><b>Figure 2:</b> Cybersecurity Virtual Lab - Installed Kali Linux</p>
 
