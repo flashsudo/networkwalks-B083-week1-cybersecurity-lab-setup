@@ -3,6 +3,7 @@
 # Cybersecurity Virtual Lab
 
 ### A documented, isolated environment for ethical hacking and network-security practice
+## Orgernized  and Sponsered by NetWorkwalks
 
 [![Platform](https://img.shields.io/badge/Platform-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![OS](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
@@ -64,19 +65,19 @@ The NAT Network allows virtual machines attached to the same network to communic
 
 | Component | Configuration |
 |---|---|
-| Host operating system | Windows 10 |
-| Host memory | 8 GB |
-| Processor | Intel Core i7 |
-| Hypervisor | Oracle VM VirtualBox 7.2 |
-| Security distribution | Kali Linux 2026.2 |
-| Kali VM memory | 2,048 MB |
-| Virtual network mode | NAT Network |
-| Network name | `NatNetwork` |
-| IPv4 network | `10.0.0.0/24` |
-| Kali IPv4 address | `10.0.0.2/24` |
-| Default gateway | `10.0.0.1` |
-| DNS resolver | `8.8.8.8` |
-| Planned target address range | `10.0.0.3–10.0.0.99` |
+| 🖥️ Host operating system | Windows 11 |
+| 🧠 Host memory | 8 GB or more|
+| ⚡ Processor | Intel Core i5 or upgraded version |
+| 🧰 Hypervisor | Oracle VM VirtualBox 7.2 |
+| 🐉 Security distribution | Kali Linux 2026.2 |
+| 🧠 Kali VM memory | 2,048 MB |
+| 🌐 Virtual network mode | NAT Network |
+| 📡 Network name | `NatNetwork` |
+| 📡 IPv4 network | `10.0.0.0/24` |
+| 🐧 Kali IPv4 address | `10.0.0.2/24` |
+| 🚪 Default gateway | `10.0.0.1` |
+| 🌍 DNS resolver | `8.8.8.8` |
+| 🔮 Planned target address range | `10.0.0.3–10.0.0.99` |
 
 > **Configuration note:** These IP values describe the example lab. Confirm the actual gateway, DHCP range, and assigned addresses in VirtualBox before applying a static address. Ensure the static address is outside the DHCP pool or excluded from it to prevent address conflicts.
 
@@ -295,6 +296,16 @@ Add your own screenshots to `screenshots/` and update the filenames in this READ
 - [Kali Linux Documentation](https://www.kali.org/docs/)
 - [7-Zip — Downloads](https://www.7-zip.org/)
 
+---
+
+# 👤 Author
+
+**Flash Amenkey**\
+Cybersecurity Professional B084
+
+LinkedIn: [https://www.linkedin.com/in/flash-amenkey-a82a0b15b/)
+
+## Orgernized and Sponsered by NetWorkwalks
 ---
 
 <div align="center">
