@@ -110,6 +110,16 @@ In VirtualBox, open **Tools → Network → NAT Networks** (the exact menu locat
 | DHCP | Enabled initially; configure the pool to avoid static-address conflicts |
 | IPv6 | Disabled for this example |
 
+<div align="center">
+
+<img src="screenshots/lab-architecture.png"
+     alt="Cybersecurity Lab Architecture"
+     width="800">
+
+<p><b>Figure 1:</b> Cybersecurity Virtual Lab - Nat configurations</p>
+
+</div>
+
 Attach all lab VMs that need to communicate with one another to this same NAT Network.
 
 ### 4. Import the Kali Linux VM
